@@ -1,0 +1,27 @@
+{
+  "id": "daggerheart-uk-ua",
+  "title": "Daggerheart — Українська локалізація",
+  "description": "Український переклад системи Daggerheart для Foundry VTT.",
+  "version": "1.0.0",
+  "compatibility": {
+    "minimum": "13",
+    "verified": "13"
+  },
+  "authors": [
+    {
+      "name": "Chaotic Loot",
+      "url": "https://github.com/chaoticloot/daggerheart-uk-ua"
+    }
+  ],
+  "languages": [
+    {
+      "lang": "uk",
+      "name": "Українська",
+      "path": "lang/uk.json"
+    }
+  ],
+  "system": "daggerheart",
+  "url": "https://github.com/chaoticloot/daggerheart-uk-ua",
+  "manifest": "https://raw.githubusercontent.com/chaoticloot/daggerheart-uk-ua/main/module.json",
+  "download": "https://github.com/chaoticloot/daggerheart-uk-ua/archive/refs/heads/main.zip"
+}
